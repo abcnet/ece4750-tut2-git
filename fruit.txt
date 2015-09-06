@@ -1,10 +1,8 @@
 apple
 mango
-<<<<<<< HEAD
 peach
-=======
 banana
->>>>>>> 46c8ce77c743b7a16a889b578cb0aaed2726cbc2
 lemon
 plum
 kiwi
+date
